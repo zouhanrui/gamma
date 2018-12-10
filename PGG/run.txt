@@ -1,0 +1,1 @@
+{'host_name': 'localhost', 'start_time': '2018-12-10 17:05:32.504535', 'stop_time': '2018-12-10 19:07:38.880128', 'task_name': 'zouhanrui-00003-autoencoder-n2n'}
